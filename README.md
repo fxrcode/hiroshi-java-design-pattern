@@ -1,4 +1,33 @@
 # hiroshi-java-design-pattern
+## TOC
+* Part 1: 适应设计模式
+    * Iterator
+    * Adapter
+    
+* Part 2: 交给子类
+    * Template method
+    * Factory method
+    
+* Part 3: 生成实例
+    * Singleton
+    * Prototype
+    * Builder
+    * Abstract factory
+    
+* Part 4: 分开考虑
+
+* Part 5: 一致性
+    * Composite (used in jvm.go)
+
+* Part 6: 访问数据结构
+
+* Part 7: 简单化
+
+* Part 8: 管理状态
+
+* Part 9: 避免浪费
+
+* Part 10: 用类来表现
 
 ### 1. Iterator
 * 难以理解抽象类和接口: "不要只使用concrete class来编程, 要优先使用抽象类和接口来编程"
